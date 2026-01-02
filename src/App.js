@@ -693,10 +693,10 @@ const Portfolio = () => {
                         </h3>
                         <div className="flex items-center gap-2">
                           <p className="text-lg text-gray-300 font-medium">{exp.company}</p>
-                          <span className="text-amber-500/60 hidden md:inline">•</span>
+                          {/* <span className="text-amber-500/60 hidden md:inline">•</span>
                           <span className="text-gray-400 text-sm md:text-base bg-black/30 px-2 py-1 rounded">
                             {exp.period}
-                          </span>
+                          </span> */}
                         </div>
                       </div>
                       <span className="text-gray-400 mt-2 md:mt-0 md:text-right hidden md:block bg-black/30 px-3 py-1 rounded-lg border border-amber-500/10">
