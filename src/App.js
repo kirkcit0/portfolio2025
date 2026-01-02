@@ -31,16 +31,21 @@ const Portfolio = () => {
     "Software Engineer",
     "Problem Solver",
     "Home-Labber",
-    "Liflong Learner",
+    "Lifelong Learner",
     "Chess Enjoyer",
-    "Tennis Player",
     "Star Wars Lover",
     "Piano Learner",
     "Aspiring Polymath",
     "Big Reader",
+    "Tennis Player",
+    "Casual Hiker",
+    "Happy Camper",
+    "Aspiring Doodler",
     "LEGO Builder",
     "Gamer",
+    "Minecrafter",
     "Silly Goober",
+    "#1 Lefevre",
   ];
 
   // Track mouse position
